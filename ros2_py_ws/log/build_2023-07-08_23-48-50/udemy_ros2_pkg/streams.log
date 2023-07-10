@@ -1,0 +1,200 @@
+[0.031s] Invoking command in '/home/shivans/Workspaces/ros2_py_ws/build/udemy_ros2_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/shivans/Workspaces/ros2_py_ws/build/udemy_ros2_pkg -- -j8 -l8
+[0.098s] [  2%] Built target udemy_ros2_pkg__cpp
+[0.101s] [ 12%] Built target udemy_ros2_pkg__rosidl_generator_c
+[0.112s] [ 12%] Built target ament_cmake_python_symlink_scripts
+[0.126s] [ 12%] Built target ament_cmake_python_symlink_udemy_ros2_pkg
+[0.153s] [ 23%] Built target udemy_ros2_pkg__rosidl_typesupport_c
+[0.160s] [ 34%] Built target udemy_ros2_pkg__rosidl_typesupport_introspection_c
+[0.169s] [ 44%] Built target udemy_ros2_pkg__rosidl_typesupport_cpp
+[0.169s] [ 55%] Built target udemy_ros2_pkg__rosidl_typesupport_fastrtps_c
+[0.170s] [ 65%] Built target udemy_ros2_pkg__rosidl_typesupport_introspection_cpp
+[0.174s] [ 76%] Built target udemy_ros2_pkg__rosidl_typesupport_fastrtps_cpp
+[0.198s] [ 76%] Built target udemy_ros2_pkg
+[0.231s] [ 78%] Built target udemy_ros2_pkg__py
+[0.261s] [ 87%] Built target udemy_ros2_pkg__rosidl_generator_py
+[0.292s] [ 91%] Built target udemy_ros2_pkg__rosidl_typesupport_introspection_c__pyext
+[0.297s] [ 97%] Built target udemy_ros2_pkg__rosidl_typesupport_c__pyext
+[0.297s] [100%] Built target udemy_ros2_pkg__rosidl_typesupport_fastrtps_c__pyext
+[0.535s] running egg_info
+[0.536s] writing scripts.egg-info/PKG-INFO
+[0.536s] writing dependency_links to scripts.egg-info/dependency_links.txt
+[0.537s] writing top-level names to scripts.egg-info/top_level.txt
+[0.540s] reading manifest file 'scripts.egg-info/SOURCES.txt'
+[0.541s] writing manifest file 'scripts.egg-info/SOURCES.txt'
+[0.545s] running egg_info
+[0.546s] writing udemy_ros2_pkg.egg-info/PKG-INFO
+[0.547s] writing dependency_links to udemy_ros2_pkg.egg-info/dependency_links.txt
+[0.547s] writing top-level names to udemy_ros2_pkg.egg-info/top_level.txt
+[0.551s] reading manifest file 'udemy_ros2_pkg.egg-info/SOURCES.txt'
+[0.552s] writing manifest file 'udemy_ros2_pkg.egg-info/SOURCES.txt'
+[0.574s] [100%] Built target ament_cmake_python_build_scripts_egg
+[0.583s] [100%] Built target ament_cmake_python_build_udemy_ros2_pkg_egg
+[0.592s] Invoked command in '/home/shivans/Workspaces/ros2_py_ws/build/udemy_ros2_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/shivans/Workspaces/ros2_py_ws/build/udemy_ros2_pkg -- -j8 -l8
+[0.766s] Invoking command in '/home/shivans/Workspaces/ros2_py_ws/build/udemy_ros2_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/shivans/Workspaces/ros2_py_ws/build/udemy_ros2_pkg
+[0.773s] -- Install configuration: ""
+[0.774s] -- Execute custom install script
+[0.774s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/ament_index/resource_index/rosidl_interfaces/udemy_ros2_pkg
+[0.775s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/action/detail/navigate__functions.h
+[0.775s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/action/detail/navigate__struct.h
+[0.775s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/action/detail/navigate__type_support.h
+[0.775s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/action/navigate.h
+[0.775s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/msg/rosidl_generator_c__visibility_control.h
+[0.775s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/srv/detail/odd_even_check__functions.h
+[0.775s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/srv/detail/odd_even_check__struct.h
+[0.775s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/srv/detail/odd_even_check__type_support.h
+[0.775s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/srv/detail/turn_camera__functions.h
+[0.776s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/srv/detail/turn_camera__struct.h
+[0.776s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/srv/detail/turn_camera__type_support.h
+[0.776s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/srv/odd_even_check.h
+[0.776s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/srv/turn_camera.h
+[0.776s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/environment/library_path.sh
+[0.776s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/environment/library_path.dsv
+[0.776s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/action/detail/navigate__rosidl_typesupport_fastrtps_c.h
+[0.777s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.777s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/srv/detail/odd_even_check__rosidl_typesupport_fastrtps_c.h
+[0.777s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/srv/detail/turn_camera__rosidl_typesupport_fastrtps_c.h
+[0.778s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/action/detail/navigate__rosidl_typesupport_introspection_c.h
+[0.778s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.778s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/srv/detail/odd_even_check__rosidl_typesupport_introspection_c.h
+[0.778s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/srv/detail/turn_camera__rosidl_typesupport_introspection_c.h
+[0.778s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/action/detail/navigate__builder.hpp
+[0.778s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/action/detail/navigate__struct.hpp
+[0.779s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/action/detail/navigate__traits.hpp
+[0.779s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/action/navigate.hpp
+[0.779s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/srv/detail/odd_even_check__builder.hpp
+[0.779s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/srv/detail/odd_even_check__struct.hpp
+[0.779s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/srv/detail/odd_even_check__traits.hpp
+[0.779s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/srv/detail/turn_camera__builder.hpp
+[0.779s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/srv/detail/turn_camera__struct.hpp
+[0.779s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/srv/detail/turn_camera__traits.hpp
+[0.779s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/srv/odd_even_check.hpp
+[0.779s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/srv/turn_camera.hpp
+[0.780s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/action/detail/navigate__rosidl_typesupport_fastrtps_cpp.hpp
+[0.780s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.780s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/srv/detail/odd_even_check__rosidl_typesupport_fastrtps_cpp.hpp
+[0.780s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/srv/detail/turn_camera__rosidl_typesupport_fastrtps_cpp.hpp
+[0.781s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/action/detail/navigate__rosidl_typesupport_introspection_cpp.hpp
+[0.781s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/srv/detail/odd_even_check__rosidl_typesupport_introspection_cpp.hpp
+[0.781s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/include/udemy_ros2_pkg/udemy_ros2_pkg/srv/detail/turn_camera__rosidl_typesupport_introspection_cpp.hpp
+[0.781s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/environment/pythonpath.sh
+[0.781s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/environment/pythonpath.dsv
+[0.782s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/udemy_ros2_pkg-0.0.0-py3.10.egg-info/PKG-INFO
+[0.782s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/udemy_ros2_pkg-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.782s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/udemy_ros2_pkg-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.782s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/udemy_ros2_pkg-0.0.0-py3.10.egg-info/top_level.txt
+[0.783s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/udemy_ros2_pkg/__init__.py
+[0.783s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/udemy_ros2_pkg/_udemy_ros2_pkg_s.ep.rosidl_typesupport_c.c
+[0.783s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/udemy_ros2_pkg/_udemy_ros2_pkg_s.ep.rosidl_typesupport_fastrtps_c.c
+[0.783s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/udemy_ros2_pkg/_udemy_ros2_pkg_s.ep.rosidl_typesupport_introspection_c.c
+[0.783s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/udemy_ros2_pkg/action/__init__.py
+[0.783s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/udemy_ros2_pkg/action/_navigate.py
+[0.783s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/udemy_ros2_pkg/action/_navigate_s.c
+[0.783s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/udemy_ros2_pkg/libudemy_ros2_pkg__rosidl_generator_py.so
+[0.783s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/udemy_ros2_pkg/srv/__init__.py
+[0.784s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/udemy_ros2_pkg/srv/_odd_even_check.py
+[0.784s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/udemy_ros2_pkg/srv/_odd_even_check_s.c
+[0.784s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/udemy_ros2_pkg/srv/_turn_camera.py
+[0.784s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/udemy_ros2_pkg/srv/_turn_camera_s.c
+[0.784s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/udemy_ros2_pkg/udemy_ros2_pkg_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.784s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/udemy_ros2_pkg/udemy_ros2_pkg_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.784s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/udemy_ros2_pkg/udemy_ros2_pkg_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.785s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/udemy_ros2_pkg/udemy_ros2_pkg_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.785s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/udemy_ros2_pkg/udemy_ros2_pkg_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.785s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/udemy_ros2_pkg/udemy_ros2_pkg_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.786s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/srv/OddEvenCheck.idl
+[0.786s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/srv/TurnCamera.idl
+[0.786s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/action/Navigate.idl
+[0.786s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/srv/OddEvenCheck.srv
+[0.786s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/srv/OddEvenCheck_Request.msg
+[0.786s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/srv/OddEvenCheck_Response.msg
+[0.786s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/srv/TurnCamera.srv
+[0.787s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/srv/TurnCamera_Request.msg
+[0.787s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/srv/TurnCamera_Response.msg
+[0.787s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/action/Navigate.action
+[0.787s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/PKG-INFO
+[0.787s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.787s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.788s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/top_level.txt
+[0.788s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/scripts/__init__.py
+[0.788s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/scripts/action_client.py
+[0.788s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/scripts/action_server.py
+[0.788s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/scripts/publisher.py
+[0.789s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/scripts/rpm_pub.py
+[0.789s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/scripts/service_client.py
+[0.789s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/scripts/service_server.py
+[0.789s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/scripts/speed_calc.py
+[0.789s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/scripts/subscriber.py
+[0.789s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/scripts/turn_camera_client.py
+[0.789s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/scripts/turn_camera_server.py
+[0.789s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/lib/udemy_ros2_pkg/publisher.py
+[0.789s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/lib/udemy_ros2_pkg/subscriber.py
+[0.790s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/lib/udemy_ros2_pkg/rpm_pub.py
+[0.790s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/lib/udemy_ros2_pkg/speed_calc.py
+[0.790s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/lib/udemy_ros2_pkg/service_server.py
+[0.790s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/lib/udemy_ros2_pkg/service_client.py
+[0.790s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/lib/udemy_ros2_pkg/turn_camera_server.py
+[0.790s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/lib/udemy_ros2_pkg/turn_camera_client.py
+[0.790s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/lib/udemy_ros2_pkg/action_client.py
+[0.790s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/lib/udemy_ros2_pkg/action_server.py
+[0.791s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg//launch/rpm_node.launch.py
+[0.791s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg//launch/rpm_speed.launch.py
+[0.791s] -- Symlinking: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg//launch/simulation_project.launch.py
+[0.799s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg//launch/test
+[0.799s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg//worlds/simulation_project_world.sdf
+[0.799s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg//worlds/test_world.sdf
+[0.800s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg//models/ground_plane/model.config
+[0.800s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg//models/ground_plane/my_ground_plane.sdf
+[0.800s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg//models/project_robot_model/model.config
+[0.800s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg//models/project_robot_model/model.sdf
+[0.800s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/ament_index/resource_index/package_run_dependencies/udemy_ros2_pkg
+[0.800s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/ament_index/resource_index/parent_prefix_path/udemy_ros2_pkg
+[0.800s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/environment/ament_prefix_path.sh
+[0.801s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/environment/ament_prefix_path.dsv
+[0.801s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/environment/path.sh
+[0.801s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/environment/path.dsv
+[0.801s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/local_setup.bash
+[0.801s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/local_setup.sh
+[0.802s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/local_setup.zsh
+[0.802s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/local_setup.dsv
+[0.802s] -- Symlinking: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/package.dsv
+[0.814s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/ament_index/resource_index/packages/udemy_ros2_pkg
+[0.815s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/rosidl_cmake-extras.cmake
+[0.815s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.815s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.815s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/ament_cmake_export_libraries-extras.cmake
+[0.816s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/ament_cmake_export_targets-extras.cmake
+[0.816s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.816s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.817s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/udemy_ros2_pkgConfig.cmake
+[0.817s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/udemy_ros2_pkgConfig-version.cmake
+[0.817s] -- Up-to-date symlink: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/package.xml
+[0.818s] -- Up-to-date: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/lib/libudemy_ros2_pkg__rosidl_generator_c.so
+[0.818s] -- Up-to-date: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/lib/libudemy_ros2_pkg__rosidl_typesupport_fastrtps_c.so
+[0.819s] -- Up-to-date: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/lib/libudemy_ros2_pkg__rosidl_typesupport_introspection_c.so
+[0.819s] -- Up-to-date: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/lib/libudemy_ros2_pkg__rosidl_typesupport_c.so
+[0.820s] -- Up-to-date: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/lib/libudemy_ros2_pkg__rosidl_typesupport_fastrtps_cpp.so
+[0.820s] -- Up-to-date: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/lib/libudemy_ros2_pkg__rosidl_typesupport_introspection_cpp.so
+[0.821s] -- Up-to-date: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/lib/libudemy_ros2_pkg__rosidl_typesupport_cpp.so
+[0.858s] Listing '/home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/udemy_ros2_pkg'...
+[0.858s] Listing '/home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/udemy_ros2_pkg/action'...
+[0.858s] Listing '/home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/udemy_ros2_pkg/srv'...
+[0.863s] -- Up-to-date: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/lib/libudemy_ros2_pkg__rosidl_generator_py.so
+[0.890s] Listing '/home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/local/lib/python3.10/dist-packages/scripts'...
+[0.893s] -- Up-to-date: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/export_udemy_ros2_pkg__rosidl_generator_cExport.cmake
+[0.893s] -- Up-to-date: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/export_udemy_ros2_pkg__rosidl_generator_cExport-noconfig.cmake
+[0.893s] -- Up-to-date: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/export_udemy_ros2_pkg__rosidl_typesupport_fastrtps_cExport.cmake
+[0.893s] -- Up-to-date: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/export_udemy_ros2_pkg__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[0.894s] -- Up-to-date: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/udemy_ros2_pkg__rosidl_typesupport_introspection_cExport.cmake
+[0.894s] -- Up-to-date: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/udemy_ros2_pkg__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.894s] -- Up-to-date: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/udemy_ros2_pkg__rosidl_typesupport_cExport.cmake
+[0.894s] -- Up-to-date: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/udemy_ros2_pkg__rosidl_typesupport_cExport-noconfig.cmake
+[0.894s] -- Up-to-date: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/export_udemy_ros2_pkg__rosidl_generator_cppExport.cmake
+[0.894s] -- Up-to-date: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/export_udemy_ros2_pkg__rosidl_typesupport_fastrtps_cppExport.cmake
+[0.894s] -- Up-to-date: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/export_udemy_ros2_pkg__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[0.894s] -- Up-to-date: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/udemy_ros2_pkg__rosidl_typesupport_introspection_cppExport.cmake
+[0.894s] -- Up-to-date: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/udemy_ros2_pkg__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.894s] -- Up-to-date: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/udemy_ros2_pkg__rosidl_typesupport_cppExport.cmake
+[0.894s] -- Up-to-date: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/udemy_ros2_pkg__rosidl_typesupport_cppExport-noconfig.cmake
+[0.894s] -- Up-to-date: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/export_udemy_ros2_pkg__rosidl_generator_pyExport.cmake
+[0.895s] -- Up-to-date: /home/shivans/Workspaces/ros2_py_ws/install/udemy_ros2_pkg/share/udemy_ros2_pkg/cmake/export_udemy_ros2_pkg__rosidl_generator_pyExport-noconfig.cmake
+[0.897s] Invoked command in '/home/shivans/Workspaces/ros2_py_ws/build/udemy_ros2_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/shivans/Workspaces/ros2_py_ws/build/udemy_ros2_pkg
